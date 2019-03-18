@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 贺平 0318分支 1
+ * 贺平 0318分支 1   切来的分支
  */
 public class MainActivity extends AppCompatActivity {
 
