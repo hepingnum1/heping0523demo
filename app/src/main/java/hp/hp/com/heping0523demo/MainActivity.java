@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //03181加的东西   0:55加的 1:10加的
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        0318加的01:23
     }
 }
