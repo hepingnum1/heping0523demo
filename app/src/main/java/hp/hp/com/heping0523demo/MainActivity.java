@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
 //0318加的东西  00:51加的
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //03181加的东西   0:55加的
+        //03181加的东西   0:55加的 1:10加的
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
